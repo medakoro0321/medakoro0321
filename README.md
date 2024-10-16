@@ -7,7 +7,7 @@ jsとかpyとかC#とかAIとかとか...いろんなものを作ったりいじ
 DISCORD[ID]:medakoro0321
 Twitter[LINK]:https://x.com/medakakoro
 
-My Stats:
+My Status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medakoro)](https://github.com/anuraghazra/github-readme-stats)
 
 

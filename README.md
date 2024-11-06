@@ -23,6 +23,6 @@ My Status:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medakoro)](https://github.com/anuraghazra/github-readme-stats)
 
-Most Programming Language
+Most Programming Language:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medakoro)](https://github.com/anuraghazra/github-readme-stats)

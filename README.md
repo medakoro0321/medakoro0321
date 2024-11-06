@@ -1,13 +1,23 @@
 こんにちは:)
+Hello:)
 過労死寸前のコマンド大好きマインクラフターです
+I'm a commando-loving minecrafter on the verge of overwork.
+最近ゼンゼロにハマってます
+Lately I've been into Zen Zero.
+エレンかわいい!!!!!!!!!!
+Ellen is so cute!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-jsとかpyとかC#とかAIとかとか...いろんなものを作ったりいじったりしてます
+jsとかpyとかC#とかJavaとかとか...いろんなものを作ったりいじったりしてます
+I'm into js, py, C#, Java, etc... I make and tinker with all kinds of things!
 よろしくお願いします!
+I'm looking forward to meeting you!
 
 DISCORD[ID]:medakoro0321
+
 Twitter[LINK]:https://x.com/medakakoro
 
 My Status:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medakoro)](https://github.com/anuraghazra/github-readme-stats)
 
 

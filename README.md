@@ -1,32 +1,20 @@
 こんにちは:)
-
-Hello:)
-
 過労死寸前のコマンド大好きマインクラフターです
-
-I'm a commando-loving minecrafter on the verge of overwork.
-
 最近ゼンゼロにハマってます
-
-Lately I've been into Zen Zero.
-
 エレンかわいい!!!!!!!!!!
 
-Ellen is so cute!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
 jsとかpyとかC#とかJavaとかとか...いろんなものを作ったりいじったりしてます
-
-I'm into js, py, C#, Java, etc... I make and tinker with all kinds of things!
-
 よろしくお願いします!
-
-I'm looking forward to meeting you!
-
-
 英語は多少できます
 
+
+Hello:)
+I'm a commando-loving minecrafter on the verge of overwork.
+Lately I've been into Zenless Zone Zero.
+Ellen is so cute!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+I'm into js, py, C#, Java, etc... I make and tinker with all kinds of things!
+I'm looking forward to meeting you!
 I can a liitle english
 
 DISCORD[ID]:medakoro0321

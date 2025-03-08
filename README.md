@@ -1,5 +1,8 @@
 # Hello, A world where anything is possible!
 ---
+## Status
+![](https://github-readme-stats.vercel.app/api?username=medakoro0321&theme=algolia&show_icons=true)
+---
 ## Accounts
 | Service | ID/Name |
 | ------- | ------- |

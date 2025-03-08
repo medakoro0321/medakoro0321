@@ -48,4 +48,4 @@ Zenless Zone Zero makes me so excited. Don't you play Zenless Zone Zero? <sub>El
 
 ### Tasks: 
 - [ ] Developing my own games 
-- [ ] ~~Study~~~
+- [ ] ~~study~~
